@@ -1,0 +1,3 @@
+include<HeatbedIsolationModule.scad>
+
+heatbedIsolation();
